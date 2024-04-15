@@ -1,0 +1,3 @@
+/home/usuario/practicas/CyA/p01_strings/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/practicas/CyA/p01_strings/build/CMakeFiles/edit_cache.dir
+/home/usuario/practicas/CyA/p01_strings/build/CMakeFiles/p01_strings.dir
